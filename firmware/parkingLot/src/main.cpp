@@ -11,7 +11,7 @@
 // ===== Firebase =====
 #define API_KEY "AIzaSyCrf9T1DPBQpXv16LCn1pz63z7M_NXH1-Y"       
 #define PROJECT_ID "sua-vaga-8e99e"
-String parkingLotId = "6";
+String parkingLotId = "3";
 String spotId1 = "A1";
 String spotId2 = "A2";
 

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "410875608459",
+    "project_id": "sua-vaga-8e99e",
+    "storage_bucket": "sua-vaga-8e99e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410875608459:android:c5deb6e84b1f408a4b838e",
+        "android_client_info": {
+          "package_name": "com.example.sua_vaga"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrf9T1DPBQpXv16LCn1pz63z7M_NXH1-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

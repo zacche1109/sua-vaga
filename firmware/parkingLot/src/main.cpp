@@ -5,8 +5,8 @@
 #include "addons/RTDBHelper.h"
 
 // ===== Wi-Fi =====
-#define WIFI_SSID     "Nexus6-3"
-#define WIFI_PASSWORD "skywalker1472"
+#define WIFI_SSID     "YOUR_SSID"
+#define WIFI_PASSWORD "YOUR_PASSWORD"
 
 // ===== Firebase =====
 #define API_KEY "AIzaSyCrf9T1DPBQpXv16LCn1pz63z7M_NXH1-Y"       
